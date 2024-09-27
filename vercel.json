@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "name": "MERN STACK E-COMM BACKEND",
+  "name": "EBACKEND",
   "builds": [
     {
       "src": "./index.js",
